@@ -15,7 +15,7 @@ Data: 17/02/2022
 
 ## Artigos
 
-* [LagNetViP: A Lagrangian Neural Network for Video Prediction](https://deepai.org/publication/lagnetvip-a-lagrangian-neural-network-for-video-prediction)
+* Artigo interessante: [LagNetViP: A Lagrangian Neural Network for Video Prediction](https://deepai.org/publication/lagnetvip-a-lagrangian-neural-network-for-video-prediction)
 
 ## Bibliotecas do Python
 
