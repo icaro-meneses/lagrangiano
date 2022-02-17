@@ -1,8 +1,8 @@
-# Nonconservative forces
+# Lagrangiano com forças não conservativas
 
-Date:  15/02/2022
+Data:  15/02/2022
 
-## Some research links
+## Alguns links úteis
 
 Physics StackExchange Question: [Euler-Lagrange equations with non-conservative force (example)](https://physics.stackexchange.com/questions/342294/euler-lagrange-equations-with-non-conservative-force-example)  
 Physics StackExchange Question: [Modeling external forces in Lagrangian dynamics](https://physics.stackexchange.com/questions/153302/modeling-external-forces-in-lagrangian-dynamics)  
