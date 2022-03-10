@@ -21,3 +21,9 @@ Data: 17/02/2022
 
 * Numdifftools: [Docs](https://numdifftools.readthedocs.io/en/stable/)
   * [Gradiente, Jacobiano e Hessiano](https://numdifftools.readthedocs.io/en/stable/tutorials/getting_started.html#gradient-and-hessian-estimation)
+
+## Livros
+### Livro adicionado no dia 10/03/2022
+
+* Herbert Goldenstein, Classical Mechanics
+  * Na página 21, imediatamente antes do tópico 1.5 há um método da adição da força no lagrangiano.
