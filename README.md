@@ -1,6 +1,6 @@
 # Lagrangiano com forças não conservativas
 
-Data:  15/02/2022
+Data de criação do repositório:  15/02/2022
 
 ## Alguns links úteis
 
